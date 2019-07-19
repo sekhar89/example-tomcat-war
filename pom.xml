@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.app</groupId>
-  <artifactId>SimpleTomcatWebApp8</artifactId>
+  <artifactId>SimpleTomcat</artifactId>
   <packaging>war</packaging>
   <version>2.13-SNAPSHOT</version>
   <name>SimpleTomcatWebApp Maven Webapp</name>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>SimpleTomcatWebApp8</finalName>
+    <finalName>SimpleTomcat</finalName>
   </build>
 </project>
