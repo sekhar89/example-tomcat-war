@@ -4,18 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<title> <b>RESUME..!</b></title>
-	<style>
-		body {
- 
-}
-	</style>
+	<title>sample website</title>
+
 	
 </head>
 <body>
 	
+	 <p style="text-align:center;"><b> Resume..!</b></p>
+	
 
-    <embed src="51706361 (1).pdf" height="500" width="600"/>
+	<embed src="51706361 (1).pdf" height="500" aligh="center" width="600"/>
   
 
 </body>
