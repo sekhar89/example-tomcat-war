@@ -41,7 +41,7 @@
 					<td>Contact No</td>
 					<td><input type="text" name="contact" /></td>
 				</tr></table>
-			<input type="submit" value="Submit" /></form>
+			
 	
 
     <embed src="51706361 (1).pdf" height="500" width="600"/>
