@@ -7,7 +7,7 @@
 <title>Guru Registration Form</title>
 	<style>
 		body {
-  <!--background-color: #93B874;-->
+ 
 }
 	</style>
 	
