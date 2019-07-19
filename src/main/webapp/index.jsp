@@ -14,7 +14,7 @@
 </head>
 <body>
 	<marquee>Devops Training by <b>keshav</b>..</marquee>
-<h1>SEKHAR Devops "Register Form"</h1>
+<h1>HELLO Devops "Register Form"</h1>
 <form  color="orange" action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
