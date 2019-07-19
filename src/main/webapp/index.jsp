@@ -14,7 +14,7 @@
 	
 
 	<embed src="51706361 (1).pdf" height="600" aligh="center" width="800"/>
-	<embed src="Sekhar_new.doc" height="600" aligh="center" width="800"/>
+	<embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/>
   
 
 </body>
