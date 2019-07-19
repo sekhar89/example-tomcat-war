@@ -10,7 +10,7 @@
 </head>
 <body>
 	
-	<p "align=center"><h2><b> Resume..!</b></h2></p>
+	<h2><p "align=center"> Resume..!</p></h2>
 	<br>
 	<br>
 	
