@@ -10,11 +10,11 @@
 </head>
 <body>
 	
-	 <p style="text-align:center;"><b> Resume..!</b></p>
+	<p style="text-align:center;"><b> Resume..!</b></p>
+	<br>
+	<br>
 	
-
-	<embed src="51706361 (1).pdf" height="600" aligh="center" width="800"/>
-	<embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/>
+	<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p>
   
 
 </body>
