@@ -10,11 +10,25 @@
 </head>
 <body>
 	
-	<h2><p "align=center"> Resume..!</p></h2>
-	<br>
-	<br>
-	
-	<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p>
+	<h2> BASIC DETAILS</h2>
+	<tr>
+		<td>
+			KASIREDDY SEKHAR
+		</td>
+		<td>
+			AGE: 26
+		</td>
+		<td>
+			COMPANY:HCL
+		</td>
+		<td>
+			QUALIFICATION: B.TECH
+		</td>
+		<td>
+		ADDRESS :VISAKHAPATNAM
+
+		</td>
+	<!--<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p>-->
   
 
 </body>
