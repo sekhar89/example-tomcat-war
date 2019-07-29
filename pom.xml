@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>sss</finalName>
+    <finalName>basicdetails</finalName>
   </build>
 </project>
