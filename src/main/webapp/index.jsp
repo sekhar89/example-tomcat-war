@@ -11,6 +11,7 @@
 <body>
 	
 	<h2> BASIC DETAILS</h2>
+	<table>
 	<tr>
 		<td>
 			KASIREDDY SEKHAR
@@ -36,6 +37,7 @@
 
 		</td>
 	</tr>
+	</table>
 	<!--<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p>-->
   
 
