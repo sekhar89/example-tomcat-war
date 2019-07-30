@@ -15,19 +15,27 @@
 		<td>
 			KASIREDDY SEKHAR
 		</td>
+	</tr>
+	<tr>
 		<td>
 			AGE: 26
 		</td>
+	</tr>
+	<tr>
 		<td>
 			COMPANY:HCL
 		</td>
+	</tr>
+	<tr>
 		<td>
 			QUALIFICATION: B.TECH
-		</td>
+		</td></tr>
+	<tr>
 		<td>
 		ADDRESS :VISAKHAPATNAM
 
 		</td>
+	</tr>
 	<!--<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p>-->
   
 
