@@ -38,8 +38,11 @@
 		</td>
 	</tr>
 	</table> -->
-	<p1 alighn="center"><h1> Reume..!</h1></p1>
-	<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p>
+	<!-- resume service <p1 alighn="center"><h1> Reume..!</h1></p1>
+	<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p> -->
+	
+	 
+	<text align="center">Click <a href="http://www.yahoo.com">here</a> to go to yahoo.</text>
   
 
 </body>
