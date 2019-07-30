@@ -17,6 +17,6 @@
   </dependencies>
  <build>
    <!-- <finalName>SelfDetails</finalName>-->
-   <finalName>link</finalName>
+   <finalName>link1</finalName>
   </build>
 </project>
