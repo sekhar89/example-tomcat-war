@@ -10,7 +10,7 @@
 </head>
 <body>
 	
-	<h2> BASIC DETAILS</h2>
+basicDetails WAR   <!--	<h2> BASIC DETAILS</h2>
 	<table>
 	<tr>
 		<td>
@@ -37,8 +37,9 @@
 
 		</td>
 	</tr>
-	</table>
-	<!--<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p>-->
+	</table> -->
+	<p1 alighn="center"><h1> Reume..!</h1></p1>
+	<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p>
   
 
 </body>
