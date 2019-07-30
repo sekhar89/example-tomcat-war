@@ -10,7 +10,7 @@
 </head>
 <body>
 	
-basicDetails WAR   <!--	<h2> BASIC DETAILS</h2>
+   <!--	selfDetails  WAR<h2> BASIC DETAILS</h2>
 	<table>
 	<tr>
 		<td>
