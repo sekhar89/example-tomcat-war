@@ -42,7 +42,7 @@
 	<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p> -->
 	
 	 
-	<text align="center">Click <a href="http://www.yahoo.com">here</a> to go to yahoo.</text>
+	Click <a href="https://www.linkedin.com">here</a> to LinkID page...!
   
 
 </body>
