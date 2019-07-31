@@ -42,7 +42,8 @@
 	<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p> -->
 	
 	 
-	Click <a href="https://www.linkedin.com/in/sekhar-kasireddy-20370b168/">here</a> to LinkID page...!
+	<!--Click <a href="https://www.linkedin.com/in/sekhar-kasireddy-20370b168/">here</a> to LinkID page...! -->
+	<p style="text-align:center;"><img src="photo_1.jpg"></p>
   
 
 </body>
