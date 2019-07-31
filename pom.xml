@@ -17,6 +17,6 @@
   </dependencies>
  <build>
    <!-- <finalName>SelfDetails</finalName>-->
-   <finalName>lnk</finalName>
+   <finalName>photocollage</finalName>
   </build>
 </project>
