@@ -17,6 +17,6 @@
   </dependencies>
  <build>
    <!-- <finalName>SelfDetails</finalName>-->
-   <finalName>redirect</finalName>
+   <finalName>testlink</finalName>
   </build>
 </project>
