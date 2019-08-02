@@ -3,8 +3,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-	<meta http-equiv="refresh" 
-   content="0; url=https://www.rapidtables.com/web/dev/html-redirect.htm">
+	<!--<meta http-equiv="refresh" 
+   content="0; url=https://www.rapidtables.com/web/dev/html-redirect.htm">-->
 <!--<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">-->
 	<title>sample website</title>
 
@@ -12,7 +12,7 @@
 </head>
 <body>
 	
-   <!--	selfDetails  WAR<h2> BASIC DETAILS</h2>
+  selfDetails  WAR<h2> BASIC DETAILS</h2>
 	<table>
 	<tr>
 		<td>
@@ -39,7 +39,7 @@
 
 		</td>
 	</tr>
-	</table> -->
+	</table>
 	<!-- resume service <p1 alighn="center"><h1> Reume..!</h1></p1>
 	<p align="center"><embed src="Sekhar_new.pdf" height="600" aligh="center" width="800"/></p> -->
 	
