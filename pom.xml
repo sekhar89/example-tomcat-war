@@ -17,6 +17,6 @@
   </dependencies>
  <build>
    <!-- <finalName>SelfDetails</finalName>-->
-   <finalName>Testserver</finalName>
+   <finalName>test</finalName>
   </build>
 </project>
