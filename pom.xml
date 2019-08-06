@@ -19,7 +19,4 @@
    <!-- <finalName>SelfDetails</finalName>-->
    <finalName>Testserver</finalName>
   </build>
-  <build>
-    <finalName>Prodserver</finalName>
-  </build>
-</project>
+ </project>
