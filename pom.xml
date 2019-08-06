@@ -18,6 +18,5 @@
  <build>
    <!-- <finalName>SelfDetails</finalName>-->
    <finalName>${Context}</finalName>
-   <finalName>Testserver</finalName>
   </build>
  </project>
