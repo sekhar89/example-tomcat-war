@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
  <build>
-   <!-- <finalName>SelfDetails</finalName>-->
-   <finalName>${Context}</finalName>
+   <finalName>hobbies</finalName>
+   <!--<finalName>${Context}</finalName>-->
   </build>
  </project>
