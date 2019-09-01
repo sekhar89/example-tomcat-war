@@ -17,6 +17,7 @@
   </dependencies>
  <build>
    <!--<finalName>hobbies</finalName>-->
-  <finalName>${Context}</finalName>
+  <!--<finalName>${Context}</finalName>-->
+   <finalName>testing</finalName>
   </build>
  </project>
