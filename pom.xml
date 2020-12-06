@@ -18,6 +18,6 @@
  <build>
    <!--<finalName>hobbies</finalName>-->
   <!--<finalName>${Context}</finalName>-->
-   <!--<finalName>hello</finalName>-->
+   <finalName>hello</finalName>
   </build>
  </project>
